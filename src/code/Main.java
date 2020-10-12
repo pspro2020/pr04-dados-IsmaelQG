@@ -4,12 +4,12 @@ import java.util.ArrayList;
 
 public class Main {
 	
-	public volatile static int marcador1 = 0;
-	public volatile static int marcador2 = 0;
-	public volatile static int marcador3 = 0;
-	public volatile static int marcador4 = 0;
-	public volatile static int marcador5 = 0;
-	public volatile static int marcador6 = 0;
+	public static int marcador1 = 0;
+	public static int marcador2 = 0;
+	public static int marcador3 = 0;
+	public static int marcador4 = 0;
+	public static int marcador5 = 0;
+	public static int marcador6 = 0;
 
 	public static void main(String[] args) {
 		
